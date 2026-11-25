@@ -1,0 +1,2 @@
+# trivals
+es un juego
